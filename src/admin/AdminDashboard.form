@@ -242,7 +242,7 @@
                     <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                       <Color blue="8a" green="78" red="66" type="rgb"/>
                     </Property>
-                    <Property name="text" type="java.lang.String" value="  Manage Products"/>
+                    <Property name="text" type="java.lang.String" value=" Products"/>
                   </Properties>
                   <Events>
                     <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel5MouseClicked"/>
@@ -444,7 +444,7 @@
                     <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                       <Color blue="8a" green="78" red="66" type="rgb"/>
                     </Property>
-                    <Property name="text" type="java.lang.String" value="  Manage Categories"/>
+                    <Property name="text" type="java.lang.String" value=" Categories"/>
                   </Properties>
                   <Events>
                     <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel13MouseClicked"/>
@@ -545,7 +545,7 @@
                     <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                       <Color blue="8a" green="78" red="66" type="rgb"/>
                     </Property>
-                    <Property name="text" type="java.lang.String" value="  Manage Suppliers"/>
+                    <Property name="text" type="java.lang.String" value="  Manage Ridesrs"/>
                   </Properties>
                   <Events>
                     <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel30MouseClicked"/>
@@ -646,7 +646,7 @@
                     <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                       <Color blue="8a" green="78" red="66" type="rgb"/>
                     </Property>
-                    <Property name="text" type="java.lang.String" value="  Select Supplier"/>
+                    <Property name="text" type="java.lang.String" value="  Select Riders"/>
                   </Properties>
                   <Events>
                     <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel34MouseClicked"/>
@@ -747,7 +747,7 @@
                     <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                       <Color blue="8a" green="78" red="66" type="rgb"/>
                     </Property>
-                    <Property name="text" type="java.lang.String" value="  Manage Users"/>
+                    <Property name="text" type="java.lang.String" value=" Users"/>
                   </Properties>
                   <Events>
                     <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel38MouseClicked"/>
@@ -848,7 +848,7 @@
                     <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                       <Color blue="8a" green="78" red="66" type="rgb"/>
                     </Property>
-                    <Property name="text" type="java.lang.String" value="   Add Supplier"/>
+                    <Property name="text" type="java.lang.String" value="   Rideres"/>
                   </Properties>
                   <Events>
                     <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel42MouseClicked"/>

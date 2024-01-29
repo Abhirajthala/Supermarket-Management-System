@@ -201,7 +201,7 @@ public class AdminDashboard extends javax.swing.JFrame {
 
         jLabel5.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(102, 120, 138));
-        jLabel5.setText("  Manage Products");
+        jLabel5.setText(" Products");
         jLabel5.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel5MouseClicked(evt);
@@ -273,7 +273,7 @@ public class AdminDashboard extends javax.swing.JFrame {
 
         jLabel13.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         jLabel13.setForeground(new java.awt.Color(102, 120, 138));
-        jLabel13.setText("  Manage Categories");
+        jLabel13.setText(" Categories");
         jLabel13.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel13MouseClicked(evt);
@@ -309,7 +309,7 @@ public class AdminDashboard extends javax.swing.JFrame {
 
         jLabel30.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         jLabel30.setForeground(new java.awt.Color(102, 120, 138));
-        jLabel30.setText("  Manage Suppliers");
+        jLabel30.setText("  Manage Ridesrs");
         jLabel30.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel30MouseClicked(evt);
@@ -345,7 +345,7 @@ public class AdminDashboard extends javax.swing.JFrame {
 
         jLabel34.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         jLabel34.setForeground(new java.awt.Color(102, 120, 138));
-        jLabel34.setText("  Select Supplier");
+        jLabel34.setText("  Select Riders");
         jLabel34.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel34MouseClicked(evt);
@@ -381,7 +381,7 @@ public class AdminDashboard extends javax.swing.JFrame {
 
         jLabel38.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         jLabel38.setForeground(new java.awt.Color(102, 120, 138));
-        jLabel38.setText("  Manage Users");
+        jLabel38.setText(" Users");
         jLabel38.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel38MouseClicked(evt);
@@ -417,7 +417,7 @@ public class AdminDashboard extends javax.swing.JFrame {
 
         jLabel42.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         jLabel42.setForeground(new java.awt.Color(102, 120, 138));
-        jLabel42.setText("   Add Supplier");
+        jLabel42.setText("   Rideres");
         jLabel42.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel42MouseClicked(evt);
